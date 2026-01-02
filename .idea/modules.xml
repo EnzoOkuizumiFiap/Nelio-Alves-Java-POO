@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Nelio Alves.iml" filepath="$PROJECT_DIR$/.idea/Java Nelio Alves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex03 - condicao ternaria/ex03 - condicao ternaria.iml" filepath="$PROJECT_DIR$/ex03 - condicao ternaria/ex03 - condicao ternaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/exemplo01/exemplo01.iml" filepath="$PROJECT_DIR$/exemplo01/exemplo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo02/exemplo02.iml" filepath="$PROJECT_DIR$/exemplo02/exemplo02.iml" />
     </modules>
   </component>
 </project>
