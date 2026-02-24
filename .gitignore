@@ -1,0 +1,35 @@
+# --- Arquivos de compilação e build ---
+target/
+build/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# --- Arquivos de IDEs ---
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+
+# VS Code
+.vscode/
+
+# --- Arquivos de sistema e outros ---
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+hs_err_pid*
+
+# --- Segredos e Configurações de Ambiente ---
+.env
+application.properties
+application.yml
